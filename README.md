@@ -40,4 +40,5 @@ This project focuses on recognizing emotions from speech audio (e.g., happy, sad
 #### **Contributors**  
 Gourab Chowdhury
 Roll No : 22cs3069
+(Computer Science and Engineering)
 RGIPT,JAIS
